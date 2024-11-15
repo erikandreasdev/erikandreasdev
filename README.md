@@ -51,6 +51,22 @@
 
 ---
 
+## 🏆 Competitive Programming & Problem Solving
+
+Sharpening my problem-solving skills through coding challenges and competitive programming. Follow my journey on HackerRank and LeetCode:
+
+<p align="left">
+    <a href="https://www.hackerrank.com/erikandreasdev" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+    </a>
+    <a href="https://leetcode.com/erikandreasdev" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    </a>
+</p>
+
+
+---
+
 ## 💡 Feel free to explore my Certifications – you might discover a course that's perfect for you 😉.
 <p align="left">
     <a href="https://hyperskill.org/profile/81278326" target="_blank">
@@ -178,6 +194,18 @@
 
 ---
 
+## ⦿ Support My Work
+
+If you enjoy my content and want to support me, feel free to buy me a coffee (or help fund my projects) via PayPal!
+
+<p align="left">
+    <a href="https://paypal.me/ebarretodevera?country.x=ES&locale.x=es_ES" target="_blank">
+        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Me">
+    </a>
+</p>
+
+--- 
+
 ### 📊 Do You Love Numbers? Here's My Story in Stats!
 
 <!--START_SECTION:waka-->
@@ -253,3 +281,4 @@ Shell                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 15/11/2024 21:32:21 UTC
 <!--END_SECTION:waka-->
+
