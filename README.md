@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## ℹ️ About Me
 - 🇮🇨 Based in Canary Islands, Spain
 - 👨🏻‍💻 Software Engineer base focusing on Backend Development
 - 📚 Always learning and exploring new tools and technologies.
