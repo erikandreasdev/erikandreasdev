@@ -31,8 +31,9 @@
 
 ---
 
-## ✍️ Blogs, Articles & More
+## ✍️ Blogs, Articles & Social Media
 2024 is my year to build the writing habit, so I can kick off 2025 stronger than ever. Follow along as I share insights, ideas, and experiences that might just inspire you too!
+
 <p align="left">
     <a href="https://hashnode.com/@erikandreasdev" target="_blank">
         <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
@@ -42,6 +43,9 @@
     </a>
     <a href="https://medium.com/@erikandreasdev" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
+    <a href="https://twitter.com/erikandreasdev" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
     </a>
 </p>
 
