@@ -2,17 +2,104 @@
 
 <h1 align="center">Hi 👋, I'm Erik Andreas</h1>
 <p align="center">
-    🚀 <strong>Software Engineer</strong> creating bugs since 2012 🚀<br>
-    💡 Passionate about developing scalable, secure, and efficient solutions using modern technologies.
+    Based in Canary Islands 🇮🇨 - Spain 🇪🇸
+    <br>
+    <strong>Software Engineer</strong> creating bugs since 2012 🚀<br>
 </p>
 
 ---
 
 ## ℹ️ About Me
-- 🇮🇨 Based in Canary Islands, Spain
-- 👨🏻‍💻 Software Engineer base focusing on Backend Development
-- 📚 Always learning and exploring new tools and technologies.
-- 🏊🏻‍♂️ I enjoy swimming in my free time.
+<details>
+  <summary>📃 <strong>Resume</strong></summary>
+
+## 🎓 Education
+
+- 📖 **Bachelor of Science in Computer Engineering**\
+📆 2012 - 2018\
+📍 **Universidad de La Laguna** - Tenerife, Spain
+
+- 📖 **Fullstack Developer Bootcamp**\
+📆 2018 - 2019\
+📍 **Escuela de Organización Industrial (EOI)** - Madrid, Spain
+
+---
+
+## 💼 Experience
+
+### 👨‍💻 Freelance Software Engineer
+📆 Dec 2022 - Apr 2024\
+📍 Remote  
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Clean%20Architecture-FFC107?style=for-the-badge" alt="Clean Architecture">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+---
+
+### 👨‍💻 Java Fullstack Developer
+📆 Sep 2019 - Oct 2022\
+📍 Nartex Software, Tenerife  
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC">
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security">
+    <img src="https://img.shields.io/badge/Thymeleaf-005F9E?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+    <img src="https://img.shields.io/badge/Mockito-5A9BD4?style=for-the-badge" alt="Mockito">
+    <img src="https://img.shields.io/badge/AssertJ-3DDC84?style=for-the-badge&logo=java&logoColor=white" alt="AssertJ">
+</p>
+
+---
+
+### 👨‍💻 .NET Fullstack Developer (Internship)
+📆 Oct 2017 - Jan 2018\
+📍 Ayesa, Tenerife  
+<p align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+---
+
+### 👨‍💻 Software Engineer (Internship)
+📆 Mar 2017 - Jan 2018\
+📍 Binhex, Tenerife  
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers">
+</p>
+
+---
+
+## 🛠️ Not Assignable
+<p align="left">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+</p>
+
+</details>
+
+<p align="left">
+    <a href="https://drive.proton.me/urls/26JG7XDRZC#wLWfPZ0wnNda" target="_blank">
+        <img src="https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
+    </a>
+</p>
+
 
 ---
 
