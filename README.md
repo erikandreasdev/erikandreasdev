@@ -296,15 +296,13 @@ If you enjoy my content and want to support me, feel free to buy me a coffee (or
 ### 📊 Do You Love Numbers? Here's My Story in Stats!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.2 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2024
+> 🏆 81 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -339,16 +337,23 @@ Sunday                   7 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Atlantic/Canary
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 16 mins        ████████████████░░░░░░░░░   64.05 % 
+Other                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Fleet                    1 hr 19 mins        █████████████████░░░░░░░░   66.78 % 
+Warp                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+IntelliJ IDEA            13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Eco-Transport-System     1 hr 12 mins        ███████████████░░░░░░░░░░   60.55 % 
+codecrafters-redis-java  47 mins             ██████████░░░░░░░░░░░░░░░   39.45 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -366,6 +371,6 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 22:46:06 UTC
+ Last Updated on 16/11/2024 18:41:57 UTC
 <!--END_SECTION:waka-->
 
