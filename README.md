@@ -180,15 +180,11 @@ If you enjoy my content and want to support me, feel free to buy me a coffee (or
 ### 📊 Do You Love Numbers? Here's My Story in Stats!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 96.2 kB Used in GitHub's Storage 
- > 
-> 🏆 108 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -259,6 +255,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 18:43:21 UTC
+ Last Updated on 01/12/2024 18:43:50 UTC
 <!--END_SECTION:waka-->
 
