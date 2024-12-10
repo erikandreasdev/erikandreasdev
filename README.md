@@ -180,7 +180,7 @@ If you enjoy my content and want to support me, feel free to buy me a coffee (or
 ### 📊 Do You Love Numbers? Here's My Story in Stats!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -221,18 +221,22 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Atlantic/Canary
 
 💬 Programming Languages: 
-Other                    4 hrs 24 mins       █████████████████████████   99.96 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Java                     2 hrs 50 mins       ██████████████░░░░░░░░░░░   57.85 % 
+YAML                     1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   35.09 % 
+Kotlin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+.env file                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Java Properties          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Notion                   4 hrs 24 mins       █████████████████████████   99.96 % 
-Canva                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+IntelliJ IDEA            4 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clean-architecture-spring4 hrs 24 mins       █████████████████████████   100.00 % 
+trading-plaform          4 hrs 35 mins       ███████████████████████░░   93.54 % 
+demo                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 💻 Operating System: 
-Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -250,6 +254,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 18:47:35 UTC
+ Last Updated on 10/12/2024 18:47:41 UTC
 <!--END_SECTION:waka-->
 
