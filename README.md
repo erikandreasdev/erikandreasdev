@@ -10,15 +10,6 @@
 
 ---
 <details>
-  <summary>ℹ️ Resume</summary>
-     <p align="left">
-        <a href="https://drive.proton.me/urls/26JG7XDRZC#wLWfPZ0wnNda" target="_blank">
-            <img src="https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
-        </a>
-    </p>
-</details>
-<br>
-<details>
   <summary>📫 Connect With Me</summary>
  <p align="left">
     <a href="https://www.linkedin.com/in/erik-andreas-backend-developer" target="_blank">
