@@ -93,16 +93,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Atlantic/Canary
 
 💬 Programming Languages: 
-Image (svg)              4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Canva                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-spring-security          4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -120,6 +120,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 18:42:30 UTC
+ Last Updated on 25/12/2024 18:41:50 UTC
 <!--END_SECTION:waka-->
 </details>
