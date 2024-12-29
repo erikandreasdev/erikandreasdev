@@ -60,8 +60,6 @@
 
 > 📦 95.8 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -122,6 +120,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:40:40 UTC
+ Last Updated on 29/12/2024 18:40:23 UTC
 <!--END_SECTION:waka-->
 </details>
