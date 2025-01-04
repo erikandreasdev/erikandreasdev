@@ -58,9 +58,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 95.8 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
+> 📦 95.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,6 +127,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2025 18:43:03 UTC
+ Last Updated on 04/01/2025 18:41:21 UTC
 <!--END_SECTION:waka-->
 </details>
