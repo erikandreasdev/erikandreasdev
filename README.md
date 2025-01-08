@@ -52,13 +52,13 @@
   <summary>📊 Do You Love Numbers? Here's My Story in Stats!</summary>
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 95.9 kB Used in GitHub's Storage 
+> 📦 96.0 kB Used in GitHub's Storage 
  > 
 > 🏆 9 Contributions in the Year 2025
  > 
@@ -95,21 +95,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Atlantic/Canary
 
 💬 Programming Languages: 
-Go                       1 hr 39 mins        ████████████████████░░░░░   80.32 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Go                       1 hr 42 mins        ████████████████████░░░░░   80.73 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-GoLand                   1 hr 39 mins        ████████████████████░░░░░   80.33 % 
-GitHubDesktop            24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+GoLand                   1 hr 42 mins        ████████████████████░░░░░   80.75 % 
+GitHubDesktop            24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 
 🐱‍💻 Projects: 
-Version-Control-System-Go1 hr 18 mins        ████████████████░░░░░░░░░   62.86 % 
-go-playground            44 mins             █████████░░░░░░░░░░░░░░░░   35.39 % 
-LearnGoProject           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Version-Control-System-Go1 hr 20 mins        ████████████████░░░░░░░░░   63.64 % 
+go-playground            44 mins             █████████░░░░░░░░░░░░░░░░   34.64 % 
+LearnGoProject           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -127,6 +127,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 22:25:28 UTC
+ Last Updated on 08/01/2025 18:44:07 UTC
 <!--END_SECTION:waka-->
 </details>
