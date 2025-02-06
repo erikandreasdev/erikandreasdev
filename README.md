@@ -58,6 +58,8 @@
 
 > 📦 98.5 kB Used in GitHub's Storage 
  > 
+> 🏆 45 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -91,16 +93,16 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Atlantic/Canary
 
 💬 Programming Languages: 
-Other                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vscode                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -119,6 +121,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 18:43:16 UTC
+ Last Updated on 06/02/2025 18:43:30 UTC
 <!--END_SECTION:waka-->
 </details>
