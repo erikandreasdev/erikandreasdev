@@ -91,16 +91,22 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Atlantic/Canary
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     43 mins             █████████████████████░░░░   82.48 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            53 mins             █████████████████████████   99.90 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RESTfulAPI               53 mins             █████████████████████████   99.90 % 
+vscode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -119,6 +125,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2025 18:42:02 UTC
+ Last Updated on 11/02/2025 18:43:01 UTC
 <!--END_SECTION:waka-->
 </details>
