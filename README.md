@@ -91,16 +91,18 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Atlantic/Canary
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       21 mins             ████████████████████████░   97.21 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+golife                   16 mins             ███████████████████░░░░░░   74.13 % 
+Go-L                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -120,6 +122,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:41:08 UTC
+ Last Updated on 23/02/2025 18:40:38 UTC
 <!--END_SECTION:waka-->
 </details>
