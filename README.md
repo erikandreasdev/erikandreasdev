@@ -66,45 +66,6 @@
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-🌆 Daytime                43 commits          ██████████░░░░░░░░░░░░░░░   38.74 % 
-🌃 Evening                50 commits          ███████████░░░░░░░░░░░░░░   45.05 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Tuesday                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Wednesday                22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Thursday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Friday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Atlantic/Canary
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -122,6 +83,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 18:46:03 UTC
+ Last Updated on 20/09/2025 18:41:45 UTC
 <!--END_SECTION:waka-->
 </details>
