@@ -52,7 +52,7 @@
   <summary>📊 Do You Love Numbers? Here's My Story in Stats!</summary>
  
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -122,6 +122,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 19:00:26 UTC
+ Last Updated on 27/01/2026 19:03:29 UTC
 <!--END_SECTION:waka-->
 </details>
