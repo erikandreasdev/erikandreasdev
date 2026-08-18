@@ -56,34 +56,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 351.0 kB Used in GitHub's Storage 
+> 📦 351.2 kB Used in GitHub's Storage 
  > 
-> 🏆 83 Contributions in the Year 2026
+> 🏆 100 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-🌆 Daytime                42 commits          ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌃 Evening                44 commits          ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-🌙 Night                  54 commits          █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+🌆 Daytime                43 commits          ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+🌃 Evening                58 commits          █████████░░░░░░░░░░░░░░░░   35.37 % 
+🌙 Night                  55 commits          ████████░░░░░░░░░░░░░░░░░   33.54 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Tuesday                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Friday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Sunday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Monday                   40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Wednesday                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Sunday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 ```
 
 
@@ -114,11 +114,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     24 repos            ███████████████░░░░░░░░░░   61.54 % 
-HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Java                     25 repos            ████████████████░░░░░░░░░   62.50 % 
+HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -128,6 +128,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/erikandreasdev/erikandreasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:07:49 UTC
+ Last Updated on 18/08/2026 19:07:23 UTC
 <!--END_SECTION:waka-->
 </details>
